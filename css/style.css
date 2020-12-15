@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Oswald", sans-serif;
+}
+nav>ul{
+  list-style-type: none;
+  background-color: #4a4a4f;
+  text-align:center;
+  padding: 1rem;
+}
+nav li{
+  display:inline-block;
+  font-size: 1.2em;
+  line-height: 3rem;
+  margin: 0 20px;
+}
+nav a{
+  display: inline-block;
+  text-decoration: none;
+  color:#fff;
+  padding: 0 20px;
+}
+nav a:hover{
+  color:#4a4a4f;
+  background-color:#fff;
+}
+h1{
+    text-align: center;
+    padding: 1rem;
+}
+.card {
+  float:left;
+    min-width:180px;
+    margin-left:5%;
+    text-align:center;
+}
+img {
+    max-height:180px;
+}
